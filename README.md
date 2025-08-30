@@ -4,9 +4,9 @@ A collection of lightweight Python/Colab scripts for automating SEO tasks, audit
 These are not full tools—just quick utilities to save time and test ideas.
 
 ## Scripts Included
-- **Meta & Title Extractor** → 
-Pulls `<title>` tags and `<meta name="description">` content from a list of URLs or a sitemap.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/seo-scripts/blob/main/meta_title_extractor.ipynb)
+| Script | Description |
+|--------|-------------|
+| **Meta & Title Extractor** | Pulls `<title>` tags and `<meta name="description">` from a list of URLs or sitemap <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ychowdhrey/seo-scripts/blob/main/Meta%20%26%20Title%20Extractor.ipynb) |
 
 
 ## Usage
